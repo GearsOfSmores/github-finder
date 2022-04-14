@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app allows users to search for Github proflies and see the details of each profile
 
 ## Available Scripts
 
